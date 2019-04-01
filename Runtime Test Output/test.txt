@@ -1,0 +1,7 @@
+#hello#
+
+Runtimes per iteration:
+0.0632100105286
+
+
+Full Program runtime: 0.0632100105286 seconds
